@@ -7,7 +7,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
-    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
   <style>
     html,
     body,
@@ -82,7 +82,7 @@
         // assign a function to the onEachFeature parameter of the airports object.
         // Then each (point) feature will bind a popup window.
 
-        onEachFeature: function (feature, layer) {
+        onEachFeature: function(feature, layer) {
           layer.bindPopup(
             "Team Name: " + feature.properties.Team_Name +
             "<br>" +
@@ -106,8 +106,7 @@
         'Basemap': baselayer
       }, {
         'Style for Football': mytile
-      }
-    ).addTo(map);
+      }).addTo(map);
     })
   </script>
 </head>
