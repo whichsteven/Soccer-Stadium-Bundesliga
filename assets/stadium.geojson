@@ -1,0 +1,221 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  11.624664151799873, 48.21880845 ]
+    },
+    "properties": {
+    "Team_Name":"FC Bayern München",
+    "Stadium":" Allianz Arena",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/fcb.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  7.450744654834528, 51.4928359 ]
+    },
+    "properties": {
+    "Team_Name":"Borussia Dortmund",
+    "Stadium":" SIGNAL IDUNA PARK",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/bvb.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  12.34825492263645, 51.34579105 ]
+    },
+    "properties": {
+    "Team_Name":"RB Leipzig",
+    "Stadium":" Red Bull Arena",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/rbl.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  12.34825492263645, 51.34579105 ]
+    },
+    "properties": {
+    "Team_Name":"Bayer 04 Leverkusen",
+    "Stadium":" BayArena",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/b04.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  6.385409367871812, 51.174624949999995 ]
+    },
+    "properties": {
+    "Team_Name":"Borussia Mönchengladbach",
+    "Stadium":" BORUSSIA-PARK",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/bmg.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  10.804675319213889, 52.432817099999994 ]
+    },
+    "properties": {
+    "Team_Name":"VfL Wolfsburg",
+    "Stadium":" Volkswagen Arena",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/wob.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  8.645519952099118, 50.06857865 ]
+    },
+    "properties": {
+    "Team_Name":"Eintracht Frankfurt",
+    "Stadium":" Commerzbank-Arena",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/sge.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  8.837670254119317, 53.06646005 ]
+    },
+    "properties": {
+    "Team_Name":"SV Werder Bremen",
+    "Stadium":" wohninvest WESERSTADION",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/svw.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  8.887641414843747, 49.23806035 ]
+    },
+    "properties": {
+    "Team_Name":"TSG 1899 Hoffenheim",
+    "Stadium":" PreZero Arena",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/tsg.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  6.733151536484069, 51.261629850000006 ]
+    },
+    "properties": {
+    "Team_Name":"Fortuna Düsseldorf",
+    "Stadium":" Merkur Spielarena",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/f95.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  11.546491479187704, 48.1730899 ]
+    },
+    "properties": {
+    "Team_Name":"Hertha Berlin",
+    "Stadium":" Olympiastadion",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/bsc.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  11.546491479187704, 48.1730899 ]
+    },
+    "properties": {
+    "Team_Name":"FSV Mainz 05",
+    "Stadium":" OPEL ARENA",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/m05.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  7.89304491551894, 47.989055500000006 ]
+    },
+    "properties": {
+    "Team_Name":"Sport-Club Freiburg",
+    "Stadium":" Schwarzwald-Stadion",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/scf.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  7.06760006899412, 51.55459375 ]
+    },
+    "properties": {
+    "Team_Name":"FC Schalke 04",
+    "Stadium":" VELTINS-Arena",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/s04.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  10.885159340550722, 48.3231179 ]
+    },
+    "properties": {
+    "Team_Name":"FC Augsburg",
+    "Stadium":" WWK ARENA",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/fca.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  6.87602643569087, 50.933510049999995 ]
+    },
+    "properties": {
+    "Team_Name":"1. FC Köln",
+    "Stadium":" RheinEnergieSTADION",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/koe.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  6.87602643569087, 50.933510049999995 ]
+    },
+    "properties": {
+    "Team_Name":"SC Paderborn 07",
+    "Stadium":" Benteler-Arena",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/scp.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [  13.568099573022703, 52.45695055 ]
+    },
+    "properties": {
+    "Team_Name":"1. FC Union Berlin",
+    "Stadium":" An der Alten Försterei",
+    "Logo_link":" https://www.bundesliga.com/assets/clublogo/fcu.png"
+    }
+  }
+]
+}
